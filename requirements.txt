@@ -1,0 +1,13 @@
+install python 3.7 and then install below packages
+
+pip install numpy==1.19.2
+pip install Pillow==6.2.1
+pip install opencv-python==4.1.1.26
+pip install opencv-contrib-python==4.3.0.36
+
+after installation double click on 'run.bat' file to get output screen
+output screen will connect to webcam and display video and then show face
+and enter ID and name and then press register user to store user details and then
+click  on 'Train Model' button to train users and generate model
+
+and then click on 'recognize' button to recognize user
